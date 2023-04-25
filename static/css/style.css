@@ -1,0 +1,13 @@
+.mensaje_otro {
+    text-decoration: none;
+    border-radius: 20px;
+    border: 1px solid rgb(107, 98, 231);
+    background-color: rgb(98, 111, 231);
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
